@@ -19,6 +19,3 @@ Minimalist is a Simple to-do and note-taking app with UI and features heavily in
 - Architecture: MVC
 - PWA: Service Workers, Manifest
 
-## 🔥 MinimaList In Action
-
-![demo.gif](./minimalist.gif)
